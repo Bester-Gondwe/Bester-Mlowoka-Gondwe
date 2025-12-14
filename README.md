@@ -55,6 +55,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github)](https://github.com/Bester-Gondwe)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:bestergondwe4@gmail.com)
 
-
+## 📊 GitHub Performance
+https://github-readme-activity-graph.vercel.app/graph?username=Bester-Gondwe
 
 ⭐️ *Feel free to check out my repositories and projects!*
