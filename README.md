@@ -10,6 +10,7 @@
 ## 🚀 About Me
 
 🎓4th Year BSc ICT Student at Mzuzu University 
+
 💻 Passionate about **Backend Development, Network Security & System Design**  
 🔨 Building with **Laravel, FastAPI**   
 🗄️ Strong experience with **MySQL & PostgreSQL**  
